@@ -228,3 +228,20 @@ DOMAIN-SUFFIX,youtube.com,GlobalMedia
 DOMAIN-SUFFIX,ytimg.com,GlobalMedia
 DOMAIN,youtubei.googleapis.com,GlobalMedia
 DOMAIN,yt3.ggpht.com,GlobalMedia
+# > Pornhub
+DOMAIN-SUFFIX,phncdn.com,GlobalMedia
+DOMAIN-SUFFIX,phprcdn.com,GlobalMedia
+DOMAIN-SUFFIX,pornhub.com,GlobalMedia
+DOMAIN-SUFFIX,pornhubpremium.com,GlobalMedia
+# > TikTok
+USER-AGENT,TikTok*,TikTok
+DOMAIN-SUFFIX,byteoversea.com,GlobalMedia
+DOMAIN-SUFFIX,ibytedtos.com,GlobalMedia
+DOMAIN-SUFFIX,ipstatp.com,GlobalMedia
+DOMAIN-SUFFIX,muscdn.com,GlobalMedia
+DOMAIN-SUFFIX,musical.ly,GlobalMedia
+DOMAIN-SUFFIX,tiktok.com,GlobalMedia
+DOMAIN-SUFFIX,tik-tokapi.com,GlobalMedia
+DOMAIN-SUFFIX,tiktokcdn.com,GlobalMedia
+DOMAIN-SUFFIX,tiktokv.com,GlobalMedia
+DOMAIN-KEYWORD,-tiktokcdn-com,GlobalMedia
