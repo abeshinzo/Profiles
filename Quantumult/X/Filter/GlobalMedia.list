@@ -88,10 +88,15 @@ DOMAIN-KEYWORD,voddazn,GlobalMedia
 # > Disney+
 USER-AGENT,Disney+*,GlobalMedia
 DOMAIN-SUFFIX,bamgrid.com,GlobalMedia
-DOMAIN-SUFFIX,disney-plus.net,GlobalMedia
 DOMAIN-SUFFIX,disneyplus.com,GlobalMedia
+DOMAIN-SUFFIX,disney-plus.net,GlobalMedia
+DOMAIN-SUFFIX,disneystreaming.com,GlobalMedia
 DOMAIN-SUFFIX,dssott.com,GlobalMedia
 DOMAIN,cdn.registerdisney.go.com,GlobalMedia
+# > DMM
+DOMAIN-SUFFIX,dmm.co.jp,GlobalMedia
+DOMAIN-SUFFIX,dmm.com,GlobalMedia
+DOMAIN-SUFFIX,dmm-extension.com,GlobalMedia
 # > encoreTVB
 USER-AGENT,encoreTVB*,GlobalMedia
 DOMAIN-SUFFIX,encoretvb.com,GlobalMedia
@@ -108,6 +113,8 @@ USER-AGENT,HBO%20NOW*,GlobalMedia
 DOMAIN-SUFFIX,hbo.com,GlobalMedia
 DOMAIN-SUFFIX,hbogo.com,GlobalMedia
 DOMAIN-SUFFIX,hbonow.com,GlobalMedia
+USER-AGENT,HBOMAX*,GlobalMedia
+DOMAIN-SUFFIX,hbomax.com,GlobalMedia
 # > HBO GO HKG
 USER-AGENT,HBO%20GO%20PROD%20HKG*,GlobalMedia
 DOMAIN-SUFFIX,hbogoasia.com,GlobalMedia
