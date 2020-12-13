@@ -4,6 +4,9 @@
 USER-AGENT,Deezer*,GlobalMedia
 DOMAIN-SUFFIX,deezer.com,GlobalMedia
 DOMAIN-SUFFIX,dzcdn.net,GlobalMedia
+# > Instagram Music
+DOMAIN-SUFFIX,cdninstagram.com,GlobalMedia
+DOMAIN-SUFFIX,instagram.com,GlobalMedia
 # > KKBOX
 DOMAIN-SUFFIX,kkbox.com,GlobalMedia
 DOMAIN-SUFFIX,kkbox.com.tw,GlobalMedia
