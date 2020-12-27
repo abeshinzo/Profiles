@@ -1,4 +1,3 @@
-[URL Rewrite]
 #tiktok 解锁直播区域限制
 (?<=_region=)CN(?=&) url 307 JP
 (?<=&mcc_mnc=)4 url 307 2
