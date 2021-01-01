@@ -363,7 +363,7 @@ DOMAIN-SUFFIX,googleadservices.com,REJECT
 DOMAIN-SUFFIX,googleadsserving.cn,REJECT
 DOMAIN-SUFFIX,googlesyndication.com,REJECT
 DOMAIN-SUFFIX,googletagservices.com,REJECT
-DOMAIN,ads.youtube.com,REJECT
+# DOMAIN,ads.youtube.com,REJECT
 
 # (H)
 # > HunanTV
