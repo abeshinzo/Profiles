@@ -127,8 +127,9 @@ DOMAIN-SUFFIX,hulu.com,ForeignMedia
 DOMAIN-SUFFIX,huluim.com,ForeignMedia
 DOMAIN-SUFFIX,hulustream.com,ForeignMedia
 # > Hulu(フールー)
-DOMAIN-SUFFIX,happyon.jp,ForeignMedia
-DOMAIN-SUFFIX,hulu.jp,ForeignMedia
+DOMAIN-SUFFIX,happyon.jp,ForeignMedia フールー
+DOMAIN-SUFFIX,hjholdings.jp,ForeignMedia フールー
+DOMAIN-SUFFIX,hulu.jp,ForeignMedia フールー
 # > ITV
 USER-AGENT,ITV_Player*,ForeignMedia
 DOMAIN-SUFFIX,itv.com,ForeignMedia
