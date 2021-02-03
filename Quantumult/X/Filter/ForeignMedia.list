@@ -195,7 +195,6 @@ USER-AGENT,Niconico*,ForeignMedia
 DOMAIN-SUFFIX,dmc.nico,ForeignMedia
 DOMAIN-SUFFIX,nicovideo.jp,ForeignMedia
 DOMAIN-SUFFIX,nimg.jp,ForeignMedia
-DOMAIN-SUFFIX,socdm.com,ForeignMedia
 # > PBS
 USER-AGENT,PBS*,ForeignMedia
 DOMAIN-SUFFIX,pbs.org,ForeignMedia
